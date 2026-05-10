@@ -1,9 +1,8 @@
 🕘️更新时间,#genre#
-2026-05-10 22:55:17,https://xykt-fix.github.io/Y77.m3u8
+2026-05-11 00:24:38,https://xykt-fix.github.io/Y77.m3u8
 
 📺央视频道,#genre#
 CCTV-9,https://xykt-fix.github.io/Y77.m3u8
-CCTV-13,http://ali-m-l.cztv.com/channels/lantian/channel21/1080p.m3u8
 CCTV-13,https://cdn3.163189.xyz/163189/cctv13
 CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 
@@ -16,3 +15,4 @@ CCTV-16,http://74.91.26.218:82/live/cctv16hd.m3u8
 河南卫视,http://tvpull.dxhmt.cn:9081/tv/11425-1.m3u8
 
 ☘️广东频道,#genre#
+广州综合,http://tencentplay.gztv.com/live/zonghes.m3u8?txSecret=c8dbe86d6f86eb1a21999ab479fd5667&txTime=18d3c4690e8
